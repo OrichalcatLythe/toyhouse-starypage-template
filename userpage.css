@@ -1,0 +1,13 @@
+a.lythekit_glow {
+    transition-duration: .6s;
+}
+
+a.lythekit_glow:hover {
+    color: orange;
+    text-shadow: 0 0 3px #FFF;
+}
+
+a.lythekit_glow:active {
+    color: orange;
+    text-shadow: 0 0 3px #FFF;
+}
